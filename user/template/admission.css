@@ -1,0 +1,68 @@
+#heading{
+	margin-top : 10px;
+	font-weight : lighter;
+	text-align : center;
+	font-size : 40px;
+	width : 100%;
+	text-decoration : underline;
+	text-decoration-thickness : 2px;
+}
+.header2{
+	margin-top : 10px;
+	font-weight : 300;
+	font-style : italic;
+	color : rgb(150,0,0);
+	text-decoration : underline;
+	text-decoration-thickness : 2px;
+	margin-left : 20px;
+	font-size : 36px;
+}
+.disclaimer{
+	text-align : center;
+	color : rgb(170,0,0);
+}
+.apply{
+	margin-left : 50%;
+	transform : translate(-50%, 0%);
+	background-color : white;
+	color : rgb(150,0,0);
+	border : 2px solid rgb(150,0,0);
+	border-radius : 20px;
+	padding : 5px;
+	cursor : pointer;
+	font-size : 20px;
+}
+.apply:hover{
+	background-color : rgb(150,0,0);
+	color : white;
+}
+
+.cont{
+	width : 100%;
+	padding : 20px;
+	margin-top : 10px;
+	background-color : rgb(255,250,250);
+	border-radius : 5px;
+}
+.cont .title{
+	font-size : 36px;
+	font-style : italic;
+	text-decoration : underline;
+	text-decoration-thickness : 2px;
+	color : rgb(100,0,0);
+}
+.cont ul{
+	margin-left : 20px;
+	font-size : 20px;
+}
+.cont ul li{
+	margin-bottom : 20px;
+}
+.cont span{
+	padding : 0 10px;
+	background-color : rgb(250,230,230);
+	border-radius : 10px;
+}
+.cont .desc{
+	font-size : 18px;
+}
